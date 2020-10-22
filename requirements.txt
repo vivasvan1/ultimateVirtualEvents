@@ -1,2 +1,5 @@
 Django
 django_heroku
+gunicorn
+whitenoise
+
